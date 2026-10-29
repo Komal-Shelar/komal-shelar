@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Komal! 👋
 
-<!--
-**Komal-Shelar/komal-shelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Artificial Intelligence and Machine Learning (AIML)
 
-Here are some ideas to get you started:
+💻 I'm learning programming and building my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python
+- Data Structures
+- DBMS and SQL
+- Artificial Intelligence and Machine Learning
+
+### 🎯 My Goals
+- Improve my coding skills
+- Build practical projects
+- Learn new technologies
+- Grow as an AI/ML developer
+
+### 🛠️ Technologies I'm Exploring
+- Python
+- SQL
+- GitHub
+
+### 📫 About Me
+
+
+I am a Diploma student specializing in Artificial Intelligence and Machine Learning. I am passionate about technology, programming, and exploring innovative ideas. I enjoy learning new skills, solving problems, and developing my knowledge in Python, AI, and Machine Learning.
+
+### 🛠️ Skills & Technologies
+
+- **Languages:** Python, SQL
+- **Core Concepts:** Data Structures, DBMS
+- **Currently Exploring:** Artificial Intelligence and Machine Learning
+- **Tools:** GitHub,Python IDLE, MySQL, VS Code
